@@ -12,5 +12,7 @@
 
 * As a user i want to be able to write a comments, put like, rating in another project.
 
+* As an Admin I want to be able to see all users and their progress and can also delete or disable any user account. 
+
 ## analyze the idea and try order the features
 
