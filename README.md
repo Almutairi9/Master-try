@@ -24,3 +24,12 @@
 
 ## analyze the idea and try order the features
 
+
+## ERD
+
+![club drawio](https://user-images.githubusercontent.com/92248041/146666215-8cdf2fce-30f4-4bc3-9537-3e7c3e51b98c.png)
+
+
+## UML 
+
+![‏‏لقطة الشاشة (6)](https://user-images.githubusercontent.com/92248041/146666190-37a68044-2311-432f-acb8-ceed6676598f.png)
